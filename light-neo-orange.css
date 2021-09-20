@@ -5053,10 +5053,10 @@ td {
 }
 #jenkins .yui-button.primary button {
   color: #fff !important;
-  background-color: #36578c !important;
+  background-color: #8c5636 !important;
 }
 #jenkins .yui-button.primary button:hover {
-  background-color: #0172ba !important;
+  background-color: #ba7901 !important;
 }
 #jenkins .yui-button.primary button:active {
   color: #444 !important;
